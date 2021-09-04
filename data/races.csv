@@ -1,0 +1,17 @@
+RACE               ,FAMILY   ,STR,CON,DEX,SPD,INT,LOOT
+Human              ,Ascendant,50 ,50 ,75 ,40 ,75,
+Elf                ,Ascendant,35 ,35 ,85 ,65 ,85,
+Wolf               ,Beast    ,40 ,35 ,25 ,75 ,30,
+Mutated Beetle     ,Beast    ,65 ,80 ,45 ,50 ,50,50%.2
+Elongated Centipede,Beast    ,45 ,60 ,70 ,55 ,35,50%.2
+Huge Tarantula     ,Beast    ,30 ,45 ,50 ,80 ,10,
+Vulpine Terror     ,Beast    ,25 ,30 ,65 ,85 ,50,80%.7
+Six Legged Skunk   ,Beast    ,30 ,40 ,45 ,50 ,80,30%.8|65%.3
+Killer Elk         ,Beast    ,40 ,55 ,20 ,65 ,45,10%.5|25%.9|50%.3
+Owl-Horse          ,Beast    ,40 ,55 ,20 ,65 ,45,80%.3
+Giant Badger       ,Beast    ,30 ,45 ,35 ,60 ,20,80%.3
+Mama Bear          ,Beast    ,80 ,80 ,40 ,65 ,25,40%.4|90%.6
+Shambler           ,Undead   ,30 ,30 ,10 ,25 ,10,
+Vampiric Feeder    ,Undead   ,55 ,45 ,35 ,60 ,30,
+Rot Farmer         ,Undead   ,40 ,40 ,50 ,50 ,25,
+Ghoul              ,Undead   ,20 ,40 ,10 ,20 ,10,

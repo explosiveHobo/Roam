@@ -1,0 +1,9 @@
+NAME        ,TIER,EFFECT
+Taunt       ,1   ,Enrage your enemy
+Pray        ,1   ,Recharge some mana
+Evasive Roll,1   ,Increases dodge chance
+Holy Armor  ,2   ,Increase defense for a few turns
+Spark Bolt  ,2   ,Low level fire magic. No chance to burn
+Vine Grip   ,2   ,Low level earth magic. Lower enemy speed
+
+

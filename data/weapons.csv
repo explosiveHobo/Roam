@@ -1,0 +1,13 @@
+NAME           ,WEAPON_TYPE,BASE_DAMAGE
+Tree Limb      ,Blunt      ,5
+Throwing Stones,Throwing   ,10
+Cudgel         ,Blunt      ,10
+Quarterstaff   ,Polearm    ,10
+Practice Sword ,Sword      ,15
+Iron Knives    ,Throwing   ,25
+Primitive Spear,Polearm    ,25
+Stone Dagger   ,Dagger     ,25
+Lead Mace      ,Blunt      ,30
+Iron Hammer    ,Blunt      ,35
+Iron Dagger    ,Dagger     ,35
+Iron Sword     ,Sword      ,60

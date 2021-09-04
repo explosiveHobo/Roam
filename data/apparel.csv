@@ -1,0 +1,13 @@
+NAME              ,EQUIP_SLOT,ARMOR
+Leather Cap       ,Head      ,3
+Leather Chestplate,Chest     ,8
+Leather Pants     ,Legs      ,4
+Leather Boots     ,Feet      ,2
+Chitin Cowl       ,Head      ,7
+Chitin Scalemail  ,Chest     ,15
+Chitin Leggings   ,Legs      ,11
+Chitin Boots      ,Feet      ,5
+Iron Helm         ,Head      ,13
+Iron Mail         ,Chest     ,28
+Iron Grieves      ,Legs      ,20
+Iron Boots        ,Feet      ,8

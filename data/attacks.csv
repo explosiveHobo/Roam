@@ -1,0 +1,6 @@
+WEAPON_TYPE,AGGRESSIVE,DEFENSIVE,QUICK,POWER
+Blunt      ,Crush     ,Jab      ,Smack,Shatter
+Throwing   ,Flurry    ,Disorient,Toss ,Hurl
+Polearm    ,Strike    ,Disarm   ,Swipe,Downstroke
+Sword      ,Shred     ,Parry    ,Cut  ,Lunge
+Dagger     ,Stab      ,Bravado  ,Slice,Backstab

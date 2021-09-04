@@ -1,0 +1,37 @@
+PLAYER
+-Weapon Proficiency (Using a weapon of a certain type makes you better at the type)
+-Abilities (Taunt, weapon and magic abilities, etc)
+
+ITEMS
+-Weapon upgrades and armor crafting
+-Cooking food items and potion/salve alchemy
+-Trading posts here and there, sell stuff (like ore) and buy goods
+
+COMBAT
+-Time delay ----------DONE
+-Enemies drop meat, crafting items, fur/leather, etc + max inventory -----------DONE
+-Evasion, you or your enemy can miss -----------DONE
+-buffs/debuffs/status effects -------------DONE
+-Scaling difficulty
+-More monster variety
+
+WORLD
+-make world loop around (NO EDGE OF THE WORLD) -----------DONE
+-turn Vectors into their own locations, like a 'trail' or 'path' location -DO NOT ATTEMPT
+-random events (Storms, Floods, Eclipse)
+-Certain locations have special spots for
+    -Fishing (With a rod)
+    -Cooking (FOUNDATIONAL, will need light constructs [fire/stove/oven])
+    -Gathering herbs and berries
+
+-Light constructs
+    -Cooking spot (Campfire, stove, oven)
+    -Sharpening wheel (Weapon buff for next battle)
+    -Tanning rack (Upgraded leather armor)
+    -Drying rack (Effortless food preparation)
+
+PROJECT
+1. Create status_effects.csv content (refer to attacks.csv for ideas)
+2. Create dict in codex.py for status_effects
+3. Read data from csv to codex in pipeline.py
+4. Practice loading status_effects from codex.py for combat
